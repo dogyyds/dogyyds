@@ -1,15 +1,9 @@
 [![](wife.jpg)](https://baike.baidu.com/item/%E8%A5%BF%E5%AE%AB%E7%BB%93%E5%BC%A6?fromModule=lemma_search-box)
 
 <div align="center">
-
-![GitHub Snake Light](https://github.com/Tsuk1ko/dog234/raw/snack/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Tsuk1ko/dog234/raw/snack/github-snake-dark.svg#gh-dark-mode-only)
-
 </div>
 
 <details>
-<summary>Stats</summary>
-
 <a href="https://github.com/dog234">
   <table>
     <tr>
