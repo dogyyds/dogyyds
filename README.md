@@ -1,6 +1,5 @@
 ## 👋 Hi, I'm Dogxi !
-[![](dog.jpg)](https://baike.baidu.com/item/%E8%A5%BF%E5%AE%AB%E7%BB%93%E5%BC%A6?fromModule=lemma_search-box)
-
+![dog _1_.jpg](https://s2.loli.net/2022/12/31/GsIeuAYOmfHEiFh.jpg)
 <div align="center">
 </div>
 
