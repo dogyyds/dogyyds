@@ -3,7 +3,6 @@
 <div align="center">
 </div>
 
-<details>
 <a href="https://github.com/dog234">
   <table>
     <tr>
@@ -16,4 +15,3 @@
     </tr>
   </table>
 </a>
-</details>
