@@ -1,8 +1,9 @@
 ## 👋 Hi, I'm Dogxi !
 ![dog _1_.jpg](https://s2.loli.net/2022/12/31/GsIeuAYOmfHEiFh.jpg)
 <div align="center">
+  Do you think I know all of this, no, I just know them, haha:
 </div>
-Do you think I know all of this, no, I just know them, haha:
+
 
 &emsp;&emsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
