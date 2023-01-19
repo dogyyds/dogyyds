@@ -1,10 +1,7 @@
 ## 👋 Hi, I'm Dogxi !
 ![dog _1_.jpg](https://s2.loli.net/2022/12/31/GsIeuAYOmfHEiFh.jpg)
 <div align="center">
-  Do you think I know all of this, no, I just know them, haha:
 </div>
-
-
 &emsp;&emsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
@@ -35,6 +32,7 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
+  Do you think I know all of this, no, I just know them, haha:
 <!-- 最近博客和豆瓣动态 -->
 <table align="center">
 <tr>
