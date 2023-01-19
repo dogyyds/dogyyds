@@ -33,7 +33,7 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
-  Do you think I know all of this, no, I just know them, haha:
+  Do you think I know all of this, no, I just know them, haha.
 <!-- 最近博客和豆瓣动态 -->
 <table align="center">
 <tr>
