@@ -43,10 +43,10 @@
   
 <!-- START_SECTION:blog -->
 * <a href='#' target='_blank'>冥冥之中，自有注定，但行好事，莫问前程！</a> - 2022-08-11
-* <a href='#' target='_blank'>全民制作人大家好！</a> - 2022-02-25
-* <a href='#' target='_blank'>我是练习时长两年半！</a> - 2022-01-24
-* <a href='#' target='_blank'>的个人练习生！</a> - 2022-01-09
-* <a href='#' target='_blank'>我会唱跳rap篮球</a> - 2022-01-08
+* <a href='#' target='_blank'>x</a> - 2022-02-25
+* <a href='#' target='_blank'>x</a> - 2022-01-24
+* <a href='#' target='_blank'>x</a> - 2022-01-09
+* <a href='#' target='_blank'>x</a> - 2022-01-08
 <!-- END_SECTION:blog -->
   
 </td>
@@ -56,11 +56,11 @@
 ### 🤾‍♂️ <a href="#" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='#' target='_blank'>读过Python3网络爬虫开发实战 第2版</a> - 2021-12-31
-* <a href='#' target='_blank'>想读百年孤独</a> - 2021-11-28
-* <a href='#' target='_blank'>想听光亮</a> - 2021-11-12
-* <a href='#' target='_blank'>想读我的灵魂骑在纸背上</a> - 2021-11-12
-* <a href='#' target='_blank'>想看绝地逃亡</a> - 2021-03-07
+* <a href='#' target='_blank'>x</a> - 2021-12-31
+* <a href='#' target='_blank'>x</a> - 2021-11-28
+* <a href='#' target='_blank'>x</a> - 2021-11-12
+* <a href='#' target='_blank'>x</a> - 2021-11-12
+* <a href='#' target='_blank'>x</a> - 2021-03-07
 <!-- END_SECTION:douban -->
   
 </td> 
