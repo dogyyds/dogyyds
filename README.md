@@ -1,83 +1,71 @@
-## 👋 Hi, I'm Dogxi !
-![dog _1_.jpg](https://s2.loli.net/2022/12/31/GsIeuAYOmfHEiFh.jpg)
-<div align="center">
-</div>
+![wakatime](https://wakatime.com/badge/user/30dc98ea-85d0-4f98-a0e5-1c90d7d19a3c.svg)
+### 🐶 **About Me**
+```javascript
+const Dogxi = {
+  pronouns: "he/him",
+  education: "🎓 First-year Undergrad",
+  status: "🚧 Full Learn | Touch the fish 🐟",
+  currentFocus: {
+    frontend: ["TypeScript", "Nodejs", "Deno"],
+    gameDev: ["Godot", "Pixel Art"],
+    learning: ["Unity", "FCPX", "AE"]
+  },
+  hobbies: ["🎮 Indie Games", "🎵 Music", "📺 Anime", "📚 Light Novels"]
+};
+```
 
-&emsp;&emsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+---
 
-&emsp;&emsp;
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
-![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
+### 🦴 **Paw-some Tech Stack**
+#### 🎮 Game Development
+![Godot](https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-&emsp;&emsp; 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+#### 🌐 Web Development
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
-  Do you think I know all of this, no, I just know them, haha.
-<!-- 最近博客和豆瓣动态 -->
-<table align="center">
-<tr>
-<td valign="top">    
+#### 🛠️ Tools of the Trade
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 
-### 🤹‍♀️ <a href="#" target="_blank">Recent Blog</a>
-  
-<!-- START_SECTION:blog -->
-* <a href='#' target='_blank'>冥冥之中，自有注定，但行好事，莫问前程！</a> - 2022-08-11
-* <a href='#' target='_blank'>x</a> - 2022-02-25
-* <a href='#' target='_blank'>x</a> - 2022-01-24
-* <a href='#' target='_blank'>x</a> - 2022-01-09
-* <a href='#' target='_blank'>x</a> - 2022-01-08
-<!-- END_SECTION:blog -->
-  
-</td>
-    
-<td valign="top">
-  
-### 🤾‍♂️ <a href="#" target="_blank">Funny Soul</a>
+---
 
-<!-- START_SECTION:douban -->
-* <a href='#' target='_blank'>x</a> - 2021-12-31
-* <a href='#' target='_blank'>x</a> - 2021-11-28
-* <a href='#' target='_blank'>x</a> - 2021-11-12
-* <a href='#' target='_blank'>x</a> - 2021-11-12
-* <a href='#' target='_blank'>x</a> - 2021-03-07
-<!-- END_SECTION:douban -->
-  
-</td> 
-</tr>
-</table>
+### 🌐 **Connect with a Doggo**
+[![GitHub](https://img.shields.io/badge/GitHub-Dog234-181717?style=for-the-badge&logo=github)](https://github.com/dog234)
+[![B站](https://img.shields.io/badge/Bilibili-Dogxi__-FE7398?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/524190453)
+[![Email](https://img.shields.io/badge/Email-Medogxi@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:medogxi@outlook.com)
 
+---
 
+### 📊 **Coding Stats Snapshot**
+<!-- 使用可交互的统计卡片 -->
+<div align="left">
 
 <a href="https://github.com/dog234">
   <table>
     <tr>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=dog234&show_icons=true&hide_border=true&icon_color=ffca28&title_color=ffa000" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=dog234&show_icons=true&hide_border=true" />
       </td>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dog234&layout=compact&hide_border=true&title_color=ffa000" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dog234&layout=compact&hide_border=true" />
       </td>
     </tr>
   </table>
 </a>
+
+</div>
+
+---
+
+<div align="left">
+  
+### 🐾 End 🐾
+  
+![Banner](https://s2.loli.net/2022/12/31/GsIeuAYOmfHEiFh.jpg) <!-- 可以自己加个动态横幅图 -->
+
+</div>
+
+**🐾 Let's keep exploring together! 🚀**
