@@ -1,4 +1,6 @@
+![views](https://komarev.com/ghpvc/?username=dog234&color=orange)
 ![wakatime](https://wakatime.com/badge/user/30dc98ea-85d0-4f98-a0e5-1c90d7d19a3c.svg)
+![follow](https://img.shields.io/github/followers/dog234.svg?style=social&label=Follow&maxAge=2592000)
 ### 🐶 **About Me**
 ```javascript
 const Dogxi = {
@@ -17,16 +19,14 @@ const Dogxi = {
 ---
 
 ### 🦴 **Paw-some Tech Stack**
-#### 🎮 Game Development
+
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-#### 🌐 Web Development
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
-#### 🛠️ Tools of the Trade
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 
@@ -60,12 +60,3 @@ const Dogxi = {
 
 ---
 
-<div align="left">
-  
-### 🐾 End 🐾
-  
-![Banner](https://s2.loli.net/2022/12/31/GsIeuAYOmfHEiFh.jpg) <!-- 可以自己加个动态横幅图 -->
-
-</div>
-
-**🐾 Let's keep exploring together! 🚀**
