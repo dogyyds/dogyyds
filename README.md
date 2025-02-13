@@ -35,7 +35,7 @@ const Dogxi = {
 ### 🌐 **Connect with a Doggo**
 [![GitHub](https://img.shields.io/badge/GitHub-dogyyds-181717?style=for-the-badge&logo=github)](https://github.com/dogyyds)
 [![B站](https://img.shields.io/badge/Bilibili-Dogxi__-FE7398?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/524190453)
-[![Email](https://img.shields.io/badge/Email-Medogxi@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:medogxi@outlook.com)
+[![Email](https://img.shields.io/badge/Email-hi@dogxi.me-0078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:hi@dogxi.me)
 
 ---
 
