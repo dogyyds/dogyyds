@@ -36,6 +36,7 @@ const Dogxi = {
 [![GitHub](https://img.shields.io/badge/GitHub-dogyyds-181717?style=for-the-badge&logo=github)](https://github.com/dogyyds)
 [![B站](https://img.shields.io/badge/Bilibili-Dogxi__-FE7398?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/524190453)
 [![Email](https://img.shields.io/badge/Email-hi@dogxi.me-0078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:hi@dogxi.me)
+[![Blog](https://img.shields.io/badge/Xlog-Dogxi-f9d777?style=for-the-badge&logo=xlog)](https://xlog.dogxi.me)
 
 ---
 
