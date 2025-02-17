@@ -48,10 +48,10 @@ const Dogxi = {
   <table>
     <tr>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=dog234&show_icons=true&hide_border=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=dogyyds&show_icons=true&hide_border=true" />
       </td>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dog234&layout=compact&hide_border=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogyyds&layout=compact&hide_border=true" />
       </td>
     </tr>
   </table>
