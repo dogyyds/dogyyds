@@ -1,6 +1,6 @@
 ![views](https://komarev.com/ghpvc/?username=dogyyds&color=orange)
 ![wakatime](https://wakatime.com/badge/user/30dc98ea-85d0-4f98-a0e5-1c90d7d19a3c.svg)
-![follow](https://img.shields.io/github/followers/dog234.svg?style=social&label=Follow&maxAge=2592000)
+![follow](https://img.shields.io/github/followers/dogyyds.svg?style=social&label=Follow&maxAge=2592000)
 ### 🐶 **About Me**
 ```javascript
 const Dogxi = {
@@ -44,7 +44,7 @@ const Dogxi = {
 <!-- 使用可交互的统计卡片 -->
 <div align="left">
 
-<a href="https://github.com/dog234">
+<a href="https://github.com/dogyyds">
   <table>
     <tr>
       <td>
