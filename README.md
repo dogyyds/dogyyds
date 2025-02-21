@@ -8,9 +8,9 @@ const Dogxi = {
   education: "🎓 First-year Undergrad",
   status: "🚧 Full Learn | Touch the fish 🐟",
   currentFocus: {
-    frontend: ["TypeScript", "Nodejs", "Deno"],
+    frontend: ["TypeScript", "Nodejs", "Deno", "React"],
     gameDev: ["Godot", "Pixel Art"],
-    learning: ["Unity", "FCPX", "AE"]
+    learning: ["Unity", "FCPX", "Swift"]
   },
   hobbies: ["🎮 Indie Games", "🎵 Music", "📺 Anime", "📚 Light Novels"]
 };
