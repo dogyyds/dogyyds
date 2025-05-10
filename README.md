@@ -4,7 +4,11 @@
 
 ## 🐶 **About Me**
 
+As my desc, a rookie dog.
+
 I‘m working hard to learn new skills, stand on the shoulders of giants :))
+
+正如我的简介所说，一只菜狗，
 
 我正在学习新技术，站在巨人的肩膀上 😄
 
