@@ -1,7 +1,13 @@
 ![views](https://komarev.com/ghpvc/?username=dogyyds&color=orange)
 ![wakatime](https://wakatime.com/badge/user/30dc98ea-85d0-4f98-a0e5-1c90d7d19a3c.svg)
 ![follow](https://img.shields.io/github/followers/dogyyds.svg?style=social&label=Follow&maxAge=2592000)
-### 🐶 **About Me**
+
+## 🐶 **About Me**
+
+I‘m working hard to learn new skills, stand on the shoulders of giants :))
+
+我正在学习新技术，站在巨人的肩膀上 😄
+
 ```javascript
 const Dogxi = {
   pronouns: "he/him",
@@ -16,48 +22,25 @@ const Dogxi = {
 };
 ```
 
----
+## 📎 Live Links
 
-### 🦴 **Paw-some Tech Stack**
+Here are the sites that are up and running now—feel free to check them out.
 
-![Godot](https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+以下是现已启动并运行的网站——请随时查看。
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+[My Page](https://dogxi.me) (recommend)
 
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+[My Blog](https://blog.dogxi.me)
 
----
+[My API services](https://api.dogxi.me)
 
-### 🌐 **Connect with a Doggo**
-[![GitHub](https://img.shields.io/badge/GitHub-dogyyds-181717?style=for-the-badge&logo=github)](https://github.com/dogyyds)
-[![B站](https://img.shields.io/badge/Bilibili-Dogxi__-FE7398?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/524190453)
-[![Email](https://img.shields.io/badge/Email-hi@dogxi.me-0078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:hi@dogxi.me)
-[![Blog](https://img.shields.io/badge/Xlog-Dogxi-f9d777?style=for-the-badge&logo=xlog)](https://xlog.dogxi.me)
+## 🌟 Github Stats
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=dogyyds&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" alt="GitHub Stats" width="58%" />
 
-### 📊 **Coding Stats Snapshot**
-<!-- 使用可交互的统计卡片 -->
-<div align="left">
 
-<a href="https://github.com/dogyyds">
-  <table>
-    <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=dogyyds&show_icons=true&hide_border=true" />
-      </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogyyds&layout=compact&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</a>
-
-</div>
-
----
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://proxy.dogxi.me/dogyyds/dogyyds/snake/snake.svg?proxy-host=raw.githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://proxy.dogxi.me/dogyyds/dogyyds/snake/snake.svg?proxy-host=raw.githubusercontent.com">
+  <img alt="github contribution grid" src="https://proxy.dogxi.me/dogyyds/dogyyds/snake/snake.svg?proxy-host=raw.githubusercontent.com" width="100%">
+</picture>
