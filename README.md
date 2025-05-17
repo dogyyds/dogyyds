@@ -40,8 +40,7 @@ Here are the sites that are up and running now—feel free to check them out.
 
 ## 🌟 Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=dogyyds&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" alt="GitHub Stats" width="58%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=dogyyds&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&bg_color=00000000" alt="GitHub Stats" width="58%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://proxy.dogxi.me/dogyyds/dogyyds/snake/snake-dark.svg?proxy-host=raw.githubusercontent.com">
