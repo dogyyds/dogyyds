@@ -44,7 +44,7 @@ Here are the sites that are up and running now—feel free to check them out.
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://proxy.dogxi.me/dogyyds/dogyyds/snake/snake.svg?proxy-host=raw.githubusercontent.com">
+  <source media="(prefers-color-scheme: dark)" srcset="https://proxy.dogxi.me/dogyyds/dogyyds/snake/snake-dark.svg?proxy-host=raw.githubusercontent.com">
   <source media="(prefers-color-scheme: light)" srcset="https://proxy.dogxi.me/dogyyds/dogyyds/snake/snake.svg?proxy-host=raw.githubusercontent.com">
   <img alt="github contribution grid" src="https://proxy.dogxi.me/dogyyds/dogyyds/snake/snake.svg?proxy-host=raw.githubusercontent.com" width="100%">
 </picture>
