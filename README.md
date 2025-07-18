@@ -15,7 +15,7 @@ I‘m working hard to learn new skills, stand on the shoulders of giants :))
 ```javascript
 const Dogxi = {
   pronouns: "he/him",
-  education: "🎓 First-year Undergrad",
+  education: "🎓 Second-year Undergrad",
   status: "🚧 Full Learn | Touch the fish 🐟",
   currentFocus: {
     frontend: ["TypeScript", "Nodejs", "Deno", "React"],
