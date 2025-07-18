@@ -1,44 +1,40 @@
+# Hi there👋
+
+I'm Dogxi, a rookie dog. Learning, building, and having fun.
+
 ![views](https://komarev.com/ghpvc/?username=dogyyds&color=orange)
 ![wakatime](https://wakatime.com/badge/user/30dc98ea-85d0-4f98-a0e5-1c90d7d19a3c.svg)
 ![follow](https://img.shields.io/github/followers/dogyyds.svg?style=social&label=Follow&maxAge=2592000)
 
-## 🐶 **About Me**
+## About Me
 
-As my desc, a rookie dog.
+- 🐶 As my desc, a rookie dog.
 
-I‘m working hard to learn new skills, stand on the shoulders of giants :))
+- 🌱  I‘m working hard to learn new skills, stand on the shoulders of giants :))
 
-正如我的简介所说，一只菜狗，
+- ⚡️ Focused on: frontend and gameDev
 
-我正在学习新技术，站在巨人的肩膀上 😄
+- 📝 Also check my [Notion](https://dogxi.notion.site/) and [Blog](https://blog.dogxi.me/).
 
-```javascript
-const Dogxi = {
-  pronouns: "he/him",
-  education: "🎓 Second-year Undergrad",
-  status: "🚧 Full Learn | Touch the fish 🐟",
-  currentFocus: {
-    frontend: ["TypeScript", "Nodejs", "Deno", "React"],
-    gameDev: ["Godot", "Pixel Art"],
-    learning: ["Unity", "FCPX", "Swift"]
-  },
-  hobbies: ["🎮 Indie Games", "🎵 Music", "📺 Anime", "📚 Light Novels"]
-};
+## Tech Stack
+```typescript
+type SkillType = 'languages' | 'frontend' | 'backend' | 'tools' | 'gameDev' | 'learning' | (string & {});
+
+const skills = {
+  languages: ['JavaScript', 'TypeScript', 'Golang'],
+  frontend: ['React', 'Vite', 'Webpack'],
+  backend: ['Node.js', 'Express'],
+  tools: ['Git', 'Bun', 'Deno', 'GitHub Actions'],
+  gameDev: ['Godot', 'Pixel Art'],
+  learning: ['Swift', 'CTF']
+} satisfies Record<SkillType, string[]>;
 ```
 
-## 📎 Live Links
+## Projects & Contributions
 
-Here are the sites that are up and running now—feel free to check them out.
+I mostly work on developer tooling and interesting projects. Check my [repositories](https://github.com/dogyyds?tab=repositories&q=&type=&language=&sort=stargazers) for more details.
 
-以下是现已启动并运行的网站——请随时查看。
-
-[My Page](https://dogxi.me) (recommend)
-
-[My Blog](https://blog.dogxi.me)
-
-[My API services](https://api.dogxi.me)
-
-## 🌟 Github Stats
+## Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=dogyyds&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&bg_color=00000000" alt="GitHub Stats" width="58%" />
 
